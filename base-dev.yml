@@ -15,7 +15,7 @@ spring:
     hibernate:
       ddl-auto: update
   rabbitmq:
-    host: 192.168.31.201
+    host: 192.168.31.49
 eureka:
   client:
     service‐url:
