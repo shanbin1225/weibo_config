@@ -23,7 +23,7 @@ eureka:
     service‐url:
       defaultZone: http://localhost:8761/eureka
 sms:
-  ip: 192.178.31.50
+  ip: 192.178.31.55
 
 
 
