@@ -16,6 +16,8 @@ spring:
       ddl-auto: update
   rabbitmq:
     host: 192.168.31.49
+    username: admin
+    password: 123
 eureka:
   client:
     service‐url:
